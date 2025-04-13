@@ -6,6 +6,8 @@ O usuário deve escolher entre criptografar ou descriptografar, informar o nome 
 
 O programa deve ler o arquivo de entrada, aplicar a transformação e salvar o resultado no arquivo de saída.*/
 
+//Irei trabalhar mais nesse projeto
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
