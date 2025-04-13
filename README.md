@@ -80,7 +80,7 @@ Os exercícios estão organizados por dia, em pastas nomeadas como `diaXX`. Cada
 
 
 
--## 📜 Licença
+## 📜 Licença
 
 Este repositório está licenciado sob a Licença MIT.  
 Sinta-se livre para estudar, usar e contribuir.
