@@ -1,12 +1,12 @@
 /*Escreva um programa em C que:
 
-Declare duas variáveis inteiras a e b.
+    Declare duas variáveis inteiras a e b.
 
-Peça ao usuário para digitar os valores de a e b.
+    Peça ao usuário para digitar os valores de a e b.
 
-Use uma função trocar que recebe dois ponteiros para inteiros e troca os valores das variáveis apontadas por eles.
+    Use uma função trocar que recebe dois ponteiros para inteiros e troca os valores das variáveis apontadas por eles.
 
-Imprima os valores de a e b antes e depois da troca.*/
+    Imprima os valores de a e b antes e depois da troca.*/
 
 
 #include <stdio.h>
