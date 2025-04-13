@@ -97,4 +97,5 @@ int main()
         fclose(mensagem_arq);
 
     return 0;
+    
 }
