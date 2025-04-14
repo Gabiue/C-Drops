@@ -45,7 +45,7 @@ Os exercícios estão organizados por dia, em pastas nomeadas como `diaXX`. Cada
 | 09   | Alocação dinâmica e soma de vetor                                    | [`dia09`](./dia09)        |
 | 10   | Struct Aluno com busca e cálculo de média                            | [`dia10`](./dia10)        |
 | 11   | Criptografia/Descriptografia de arquivos com Cifra de César          | [`dia11`](./dia11)        |
-| 12   | Sequência de Fibonacci                                               | [`dia11`](./dia12)        |
+| 12   | Sequência de Fibonacci                                               | [`dia12`](./dia12)        |
 
 
 ---
