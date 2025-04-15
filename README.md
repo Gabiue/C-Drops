@@ -46,6 +46,7 @@ Os exercícios estão organizados por dia, em pastas nomeadas como `diaXX`. Cada
 | 10   | Struct Aluno com busca e cálculo de média                            | [`dia10`](./dia10)        |
 | 11   | Criptografia/Descriptografia de arquivos com Cifra de César          | [`dia11`](./dia11)        |
 | 12   | Sequência de Fibonacci                                               | [`dia12`](./dia12)        |
+| 13   | Ordenar vetor usando BubbleSort                                      | [`dia13`](./dia13)        |
 
 
 ---
