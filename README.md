@@ -47,6 +47,7 @@ Os exercícios estão organizados por dia, em pastas nomeadas como `diaXX`. Cada
 | 11   | Criptografia/Descriptografia de arquivos com Cifra de César          | [`dia11`](./dia11)        |
 | 12   | Sequência de Fibonacci                                               | [`dia12`](./dia12)        |
 | 13   | Ordenar vetor usando BubbleSort                                      | [`dia13`](./dia13)        |
+| 14   | Busca Binária em Vetores                                             | [`dia14`](./dia14)        |
 
 
 ---
