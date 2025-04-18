@@ -48,6 +48,7 @@ Os exercícios estão organizados por dia, em pastas nomeadas como `diaXX`. Cada
 | 12   | Sequência de Fibonacci                                               | [`dia12`](./dia12)        |
 | 13   | Ordenar vetor usando BubbleSort                                      | [`dia13`](./dia13)        |
 | 14   | Busca Binária em Vetores                                             | [`dia14`](./dia14)        |
+| 15   | Lista Encadeada E invertendo lista                                   | [`dia15`](./dia15)        |
 
 
 ---
